@@ -1,0 +1,2 @@
+# PokemonShowdownTeam
+TeamForPokemonShowdown
